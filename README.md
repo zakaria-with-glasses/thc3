@@ -1,6 +1,6 @@
 # THC3 🔐
 
-A simple, educational hashing algorithm implemented in Python—no claims to cryptographic strength. As the author puts it: *“IDK anything about hash functions.”* ([github.com](https://github.com/zakaria-with-glasses?utm_source=chatgpt.com))
+A simple, educational hashing algorithm implemented in Python—no claims to cryptographic strength.
 
 ---
 
@@ -29,11 +29,3 @@ This project implements **THC3**, a toy hashing algorithm designed for learning 
 
 ---
 
-## Installation
-
-**Clone and install locally:**
-
-```bash
-git clone https://github.com/zakaria-with-glasses/thc3.git
-cd thc3
-pip install .
